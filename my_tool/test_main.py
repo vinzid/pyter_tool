@@ -103,7 +103,7 @@ BUGSINPY_POS = [
 ]
 
 def main(argv):
-    BENCH_LIST = ['airflow', 'beets', 'click', 'core', 'luigi', 'numpy', 'pandas', 'rasa', 'requests', 'rich', 'salt', 'sanic', 'scikitlearn', 'tornado', 'transformers', 'Zappa']
+    BENCH_LIST = ['airflow', 'beets', 'core', 'luigi', 'numpy', 'pandas', 'rasa', 'requests', 'rich', 'salt', 'sanic', 'scikitlearn', 'tornado', 'Zappa']
     BUGSINPY_LIST = ['ansible', 'fastapi', 'keras', 'luigi', 'matplotlib', 'pandas', 'scrapy', 'spacy', 'tornado', 'tqdm', 'youtubedl']
     
 

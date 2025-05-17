@@ -9,8 +9,8 @@ do
         #    continue
         #fi
 
-        if [ ! -d "${project_folder}/pyfix" ]; then
-            mkdir pyfix
+        if [ ! -d "${project_folder}/pyter" ]; then
+            mkdir pyter
         fi
 
         #pip install --upgrade pip
